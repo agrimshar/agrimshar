@@ -3,7 +3,7 @@
 I'm **Agrim**, a third year **Computer and Electrical Engineering** student at the University of Toronto. I love cybersecurity, hacking, and problem-solving.
 
 ## 🛠️
-[![My Skills](https://skillicons.dev/icons?i=git,docker,c,arch,bash,cs,cpp,kali,linux,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,mysql,postgres,bash,linux,arch,kali,git,docker)](https://skillicons.dev)
 
 <details>
 <summary>:eyes: Stats</summary>
