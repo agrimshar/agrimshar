@@ -5,8 +5,8 @@ I'm **Agrim**, a third year **Computer and Electrical Engineering** student at t
 # [:hammer_and_wrench: Tools]
 [![My Skills](https://skillicons.dev/icons?i=git,docker,c,arch,bash,cs,cpp,kali,linux,mysql,postgres)](https://skillicons.dev)
 
-# [:eyes: Stats]
 <details>
+<summary>:eyes: Stats</summary>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=agrimshar&show_icons=true&hide_rank=true&theme=dark"
