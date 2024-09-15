@@ -9,7 +9,7 @@ I'm **Agrim**, a third year **Computer and Electrical Engineering** student at t
 <summary>:eyes: Stats</summary>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=agrimshar&show_icons=true&hide_rank=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=agrimshar&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
