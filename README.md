@@ -1,21 +1,13 @@
 # [:wave: Hello!](https://www.youtube.com/watch?v=c1s3Iekns9k) 
 
-I'm **Agrim**, a third year **Computer and Electrical Engineering** student at the University of Toronto. I love cybersecurity, hacking, and problem-solving.
+I'm **Agrim**, and I'm building with AI. I'm currently working on my app: Go Out. I've also created a packaging format for AI Agents, a live autonomous fleet running a real journalism product, and I've curated an agentic pipeline that allows me to ship fast and accurately. Data engineering @ **Flipp**, finishing Computer Engineering @ **University of Toronto**. If I'm not on the internet, I'm either traveling, on a trail, at the gym, or trying something I never thought I'd do.
 
-## 🛠️
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,mysql,postgres,bash,linux,arch,kali,git,docker)](https://skillicons.dev)
+Building toward the intersection of **agents, data infrastructure, and products people actually use.**
 
-<details>
-<summary>:eyes: Stats</summary>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=agrimshar&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=agrimshar&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=agrimshar" />
-</picture>
-</details>
+### Stack
+
+[![My Skills](https://skillicons.dev/icons?i=py,ts,react,supabase,linux,aws,kafka,tailwind,prisma)](https://skillicons.dev)
+
+### Off the clock
+
+⛰️ Backcountry hiking · 🥊 combat sports (wrestling / boxing / jiu-jitsu) · ☀️ finance & markets.
